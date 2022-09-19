@@ -2,6 +2,8 @@
 
 This repository contains posts and code used on [https://medium.com/@magstherdev](https://medium.com/@magstherdev)
 
+---
+
 [A beginner’s guide to OpenTelemetry](https://medium.com/@magstherdev/opentelemetry-d71d369c83d7)
 
 [Kind & Terraform](https://awstip.com/kind-terraform-af7fe350817c)
