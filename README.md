@@ -47,3 +47,23 @@ This repository contains posts and code used on [https://medium.com/@magstherdev
 [Becoming DevOps — Container Registry](https://medium.com/@magstherdev/becoming-devops-container-registry-ab90ab3f9abc)
 
 [Becoming DevOps — Kubernetes](https://medium.com/@magstherdev/becoming-devops-kubernetes-54283724e1a3)
+
+[Becoming DevOps - Docker](https://medium.com/@magstherdev/becoming-devops-docker-e50f05410748)
+
+[Becoming DevOps —Kubernetes Deployment](https://medium.com/@magstherdev/becoming-devops-kubernetes-deployment-2307d7c10e35)
+
+[Becoming DevOps — Security scans using Checkov](https://medium.com/@magstherdev/becoming-devops-security-scans-using-checkov-ced89a2d5e70)
+
+[Becoming — CI/CD](https://medium.com/@magstherdev/becoming-ci-cd-5bfa98b53a63)
+
+[Becoming DevOps — Observability](https://medium.com/@magstherdev/becoming-devops-observability-152b292c05b9)
+
+[How to scan Docker images using Trivy](https://medium.com/@magstherdev/how-to-scan-docker-images-e08a7b909ea0)
+
+[Argo CD — an Introduction](https://medium.com/@magstherdev/argo-cd-an-introduction-e85ed91f8b9a)
+
+[How to Deploy to Kubernetes using Argo CD](https://medium.com/@magstherdev/how-to-deploy-to-kubernetes-using-argo-cd-ee743cd3661b)
+
+[Helm in 10 minutes](https://medium.com/@magstherdev/helm-in-10-minutes-291945e17cb9)
+
+[Hugo in 10 minutes](https://medium.com/@magstherdev/hugo-in-10-minutes-2dc4ac70ee11)
