@@ -67,3 +67,21 @@ This repository contains posts and code used on [https://medium.com/@magstherdev
 [Helm in 10 minutes](https://medium.com/@magstherdev/helm-in-10-minutes-291945e17cb9)
 
 [Hugo in 10 minutes](https://medium.com/@magstherdev/hugo-in-10-minutes-2dc4ac70ee11)
+
+[CI/CD with GitHub Actions](https://faun.pub/ci-cd-with-github-actions-be80c46fff7d)
+
+[Vault in 10 minutes](https://medium.com/@magstherdev/vault-in-10-minutes-1cd79b037c0f)
+
+[Kubernetes Horizontal Pod Autoscaling](https://faun.pub/kubernetes-horizontal-pod-autoscaling-53fb9d0c2396)
+
+[OpenTelemetry Backends](https://faun.pub/opentelemetry-backends-240acbd8dcac)
+
+[Honeycomb](https://faun.pub/honeycomb-8014420a6f7b)
+
+[Lighstep](https://faun.pub/lightstep-5bd0a8e060d)
+
+[New Relic — OpenTelemetry](https://faun.pub/new-relic-20f97b9f9d1d)
+
+[Grafana Cloud (Tempo)](https://faun.pub/grafana-cloud-tempo-3b95373ff9d0)
+
+[Netdata on Kubernetes](https://medium.com/@magstherdev/netdata-on-kubernetes-7244108289b)
