@@ -85,3 +85,7 @@ This repository contains posts and code used on [https://medium.com/@magstherdev
 [Grafana Cloud (Tempo)](https://faun.pub/grafana-cloud-tempo-3b95373ff9d0)
 
 [Netdata on Kubernetes](https://medium.com/@magstherdev/netdata-on-kubernetes-7244108289b)
+
+[Tools to manage Kubernetes](https://medium.com/@magstherdev/tools-to-manage-kubernetes-15b675f407d4)
+
+[Lens — a Kubernetes IDE](https://medium.com/@magstherdev/lens-a-kubernetes-ide-214c1a779c3b)
