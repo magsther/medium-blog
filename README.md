@@ -89,3 +89,17 @@ This repository contains posts and code used on [https://medium.com/@magstherdev
 [Tools to manage Kubernetes](https://medium.com/@magstherdev/tools-to-manage-kubernetes-15b675f407d4)
 
 [Lens — a Kubernetes IDE](https://medium.com/@magstherdev/lens-a-kubernetes-ide-214c1a779c3b)
+
+[Let’s encrypt and CertManager](https://faun.pub/lets-encrypt-and-certmanager-aa88775730b8)
+
+[Kubernetes Ingress with Nginx](https://faun.pub/kubernetes-ingress-with-nginx-3c77e703e91a)
+
+[Collection of Docker Tutorials](https://medium.com/@magstherdev/collection-of-docker-tutorials-d5c20203e70f)
+
+[Getting Started with OpenTelemetry](https://medium.com/@magstherdev/getting-started-with-opentelemetry-469fba9662a2)
+
+[Getting started with Jaeger](https://blog.devops.dev/getting-started-with-jaeger-701d2a1e274a)
+
+[Terraform Cloud](https://medium.com/@magstherdev/terraform-cloud-f03fb4eaaa87)
+
+[Terraform Cloud with GitHub Actions](https://medium.com/@magstherdev/terraform-cloud-with-github-actions-dc897ed06e0d)
